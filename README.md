@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muhammadjapamaulana](https://medium.com/@muhammadjapamaulana)
 
-- 💬 Ask me about **React, PHP, Java**
+- 💬 Ask me about **React, PHP, Java Etc**
 
 - 📫 How to reach me **maulanajapa02@gmail.com**
 
