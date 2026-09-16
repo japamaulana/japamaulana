@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm japamaulana</h1>
-<h3 align="center">A passionate Junior Software Engineer from Indonesia</h3>
+<h3 align="left">A passionate Junior Software Engineer from Indonesia</h3>
 
 - 🔭 I’m currently working on **Web & Application Development**
 
